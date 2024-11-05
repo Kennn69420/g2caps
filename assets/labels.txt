@@ -1,0 +1,43 @@
+0 20 pesos
+1 50 pesos
+2 Dog
+3 Cat
+4 Bed
+5 Chair
+6 Door
+7 Table
+8 Pen
+9 Pencil
+10 Notebook
+11 Book
+12 Aircon
+13 Electric Fan
+14 Smartphone
+15 Wallet
+16 Bag
+17 TV
+18 Shades
+19 Towel
+20 Alarm Clock
+21 Perfume
+22 Flowervase
+23 Bucket Hat
+24 Clothe
+25 Guitar
+26 Keyboard
+27 Mouse
+28 Laptop
+29 Frying Pan
+30 Apple
+31 Person
+32 Bowl
+33 Orange
+34 Sock
+35 1000
+36 Mini Fan
+37 Fork
+38 Rice Cooker
+39 Shoes
+40 Car
+41 Cup
+42 Spoon
